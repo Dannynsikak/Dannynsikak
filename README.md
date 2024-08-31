@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/Dannynsikak?logo=github&style=for-t
 
 ## 🏆 Github Trophy
 
-<a href="https://Lordgreg003.vercel.app">
+
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Dannynsikak&theme=gruvbox">
 </a>
 
