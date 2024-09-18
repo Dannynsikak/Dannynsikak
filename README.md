@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/Dannynsikak?logo=github&style=for-t
 <br>
 <br>
 
-<a href="https://github.com/Dannynsikak"><img src="https://github-readme-stats.vercel.app/api?username=Dannynsikak&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Greg's GitHub stats" /></a>
+<a href="https://github.com/Dannynsikak"><img src="https://github-readme-stats.vercel.app/api?username=Dannynsikak&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="danny's GitHub stats" /></a>
 
 <br>
 <br>
