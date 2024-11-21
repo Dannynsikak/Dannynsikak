@@ -22,36 +22,40 @@ src="https://img.shields.io/github/followers/Dannynsikak?logo=github&style=for-t
 
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Dannynsikak&theme=gruvbox">
 </a>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3498db)
 
-<!-- ![](https://img.shields.io/badge/Style-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=3498db) -->
-<!-- ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=3498db) -->
+![](https://img.shields.io/badge/Style-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=3498db) 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=3498db)
 
-<!-- ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3498db) -->
-<!-- ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db) -->
-<!-- ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db) -->
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db)
 
-<!-- ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3498db) -->
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3498db)
 
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3498db)
 
-<!-- ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=3498db) -->
-<!-- ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3498db) -->
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3498db)
 
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=3498db)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-ChromaDB-informational?style=flat&logo=databricks&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Coqui_TTS-informational?style=flat&logo=soundcloud&logoColor=white&color=3498db)
+
 <br>
 <br>
 
