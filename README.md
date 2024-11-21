@@ -22,6 +22,7 @@ src="https://img.shields.io/github/followers/Dannynsikak?logo=github&style=for-t
 
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Dannynsikak&theme=gruvbox">
 </a>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3498db)
