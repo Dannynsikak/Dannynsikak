@@ -82,12 +82,11 @@ src="https://img.shields.io/github/followers/Dannynsikak?logo=github&style=for-t
 ## &#x1f4c8; GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Dannynsikak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dannynsikak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannynsikak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## &#x1f4c8; - Streak stats
 
-<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Dannynsikak&theme=dark">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dannynsikak&theme=dark&hide_border=false)
 
 ### Top Contributed Repo
 
